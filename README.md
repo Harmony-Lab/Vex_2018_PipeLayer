@@ -5,4 +5,4 @@ Prespatou's files for the 2018 Skills Canada Pipe Laying Challenge
 - Blender Files
 - STLs
 
-Note: This design ultimatedly ended up being depricated due to its overall size envelope.
+Note: This design ultimately ended up being deprecated due to its overall size envelope.
